@@ -1,9 +1,28 @@
-h1 {
-    font-size: 5em;
-    
-}
+html {
+    background-image: url(image/2.png);
+    background-color: #200c9c; 
+    height: 610px; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    color:#f0f0f0;
+      }
 
-/* 
-font-family: 'Germania One', cursive;
-font-family: 'Open Sans', sans-serif;
-font-family: 'Merriweather', serif;
+
+      .button {
+        background-color: #ddd;
+        border: none;
+        color: black;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 16px;
+        
+      }
+
+.button2 {
+    align-content:center;
+}
